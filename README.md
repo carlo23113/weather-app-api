@@ -6,6 +6,7 @@
 - run composer install
 - run php artisan:migrate
 - run php artisan jwt:secret
+- run php artisan serve
 
 ### Technologies Used
 
