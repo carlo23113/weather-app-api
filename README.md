@@ -2,6 +2,7 @@
 
 ## Setup
 
+- copy .env.example to .env
 - update .env file and add your database setup
 - run composer install
 - run php artisan:migrate
